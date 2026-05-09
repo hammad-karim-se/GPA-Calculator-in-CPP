@@ -44,6 +44,3 @@ The program then converts grades into grade points, calculates total grade point
 | D+ | 1.33 |
 | D | 1.00 |
 | F | 0.00 |
-
-
-./gpa
